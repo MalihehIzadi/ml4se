@@ -4,7 +4,7 @@ title: IN4334 - Machine Learning for Software Engineering (ML4SE)
 description: Course information
 ---
 
-## General description
+### General description
 
 Software repositories archive valuable software engineering data, such as source
 code, execution traces, historical code changes, mailing lists, and bug reports.
@@ -27,7 +27,7 @@ to represent knowledge and solve existing SE problems in novel ways.
 
 
 
-## Learning Objectives
+### Learning Objectives
 
 This course will enable students to:
 
@@ -36,7 +36,7 @@ This course will enable students to:
 * Apply machine learning / deep learning algorithms to solve software engineering tasks
 
 
-## Before you decide to join the course
+### Before you decide to join the course
 
 * We welcome all students that are willing to dive into cutting edge ML research.
 
@@ -49,7 +49,7 @@ This course will enable students to:
   Students with demonstrable experience (i.e., GitHub repos) in ML will be
   preferred.
 
-## Course Organization
+### Course Organization
 
 * **5 ECTS**: This means that you need to devote at least 140 hours of study
   for this course, per person. Given that the course runs in a period of
@@ -90,7 +90,7 @@ so do your homework first!
   you a place and time to work together. No feedback will be provided
   during lab hours by the lecturers.
 
-## The project
+### The project
 Lately, machine learning techniques have been successfully
 tailored to many software engineering problems.
 For instance, intelligent code completion helps developers
@@ -118,14 +118,14 @@ more specifically, [Pytorch](https://pytorch.org). Check our curated list of
 [tutorials](tutorials.html) that might help you in getting started with different
 NLP, DL, and ML topics.
 
-## Required reading for week 1:
+### Required reading for week 1:
 
 * [DeepBug paper](https://arxiv.org/abs/1805.11683), by Pradel and Sen [@Pradel2018]
 * [Discussion presentation template](discussion-template.html)
 
   
 
-## Contents
+### Contents
 
 | Date   |Week |Lecture | Reading material                | Lecturer |
 |:------:|:---:|:------:|---------------------------------|----------|
@@ -163,12 +163,12 @@ NLP, DL, and ML topics.
 * Ali Al-kaswan  (PhD, TU Delft)
 * Jonathan Katzy (PhD, TU Delft)
 
-## Deadlines
+### Deadlines
 
 * 24/10: Submission of the final version of the report (incorporating the feedback from your peers) + blog post
 * 26/10: Final presentations
 
-## Assessment
+### Assessment
 
 The course grade will be calculated as:
 
