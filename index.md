@@ -146,3 +146,34 @@ NLP, DL, and ML topics.
 |  24/10 | 8 | 15 | Project focus | All groups |
 |  26/10 | 8 | 16 | Presentation day | Maliheh and Georgios |
 
+---
+**Lecturers**
+
+* Maliheh Izadi: [Maliheh Izadi](https://malihehizadi.github.io/PersonalWebsite)
+* Georgios Gousios: [Georgios Gousios](https://gousios.org)
+
+**Guest lecturers**
+
+* [Prof Prem Devanbu](https://www.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
+* [Dr. Chandra Maddila](https://chandramaddila.github.io/) (Meta, USA)
+* [Prof. Rui Maranhao Abreu](https://ruimaranhao.com/) (FEUP and Meta)
+
+**Assistants**
+
+* Ali Al-kaswan  (PhD, TU Delft)
+* Jonathan Katzy (PhD, TU Delft)
+
+## Deadlines
+
+* 24/10: Submission of the final version of the report (incorporating the feedback from your peers) + blog post
+* 26/10: Final presentations
+
+## Assessment
+
+The course grade will be calculated as:
+
+• Project results in the form of a research paper (80%)
+• Final presentation/discussion of results (20%)
+• One Research paper presentation during the course (Pass/Fail)
+• Mid-term project report (Pass/Fail)
+• Peer feedback on project reports (Pass/Fail)
