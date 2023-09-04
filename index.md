@@ -165,10 +165,11 @@ NLP, DL, and ML topics.
 
 ### Deadlines
 All deadlines are 17:00 CET.
+* 3/10 (usual lecture timeslot): Mid-term progress presentations
 * 22/10: Submission of first version of project reports
 * 23/10: Submission of peer feedback
 * 25/10: Submission of the final version of the report (incorporating the feedback from your peers)
-* 26/10 (during usual class time): Final presentations
+* 26/10 (usual lecture timeslot): Final presentations
 
 ### Assessment
 
