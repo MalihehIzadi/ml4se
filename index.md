@@ -137,14 +137,14 @@ NLP, DL, and ML topics.
 |  21/9  | 3 | 6  | [UniXcoder](https://arxiv.org/pdf/2203.03850): Unified Cross-Modal Pre-training for Code Representation | Maliheh |
 |  26/9  | 4 | 7  | [Codex](https://arxiv.org/abs/2107.03374): Evaluating Large Language Models Trained on Code | GG / MI |
 |  28/9  | 4 | 8  |  Code Filling: [InCoder](https://arxiv.org/pdf/2204.05999) and [CodeCompose](https://arxiv.org/abs/2305.12050)| Chandra Maddila (Meta) |
-|  3/10  | 5 | 9  | Feedback session: mid-term project progress with mini-presentations (8-10 min) | Ali |
+|  3/10  | 5 | 9  | Project feedback session: mini-presentations (8-10min) | Ali |
 |  5/10  | 5 | 10  | [StarCoder](https://arxiv.org/abs/2305.06161): May the source be with you!  |  Georgios |
 |  10/10  | 6 | 11 | Guest lecture | Rui Maranhao Abreu (Meta) |
 |  12/10  | 6 | 12 | [Code Llama](https://arxiv.org/abs/2308.12950): Open Foundation Models for Code | Georgios |
 |  17/10 | 7 | 13 | [WizardCoder](https://arxiv.org/pdf/2306.08568.pdf): Empowering Code Large Language Models with Evol-Instruct | Maliheh |
 |  19/10 | 7 | 14 | [CodeT5+](https://arxiv.org/abs/2305.07922): Open Code Large Language Models for Code Understanding and Generation | Maliheh |
 |  24/10 | 8 | 15 | Project focus | All groups |
-|  26/10 | 8 | 16 | Presentation day | Maliheh and Georgios |
+|  26/10 | 8 | 16 | Presentation day | Maliheh/Georgios |
 
 ---
 **Lecturers**
@@ -164,9 +164,11 @@ NLP, DL, and ML topics.
 * Jonathan Katzy (PhD, TU Delft)
 
 ### Deadlines
-
-* 24/10: Submission of the final version of the report (incorporating the feedback from your peers) + blog post
-* 26/10: Final presentations
+All deadlines are 17:00 CET.
+* 22/10: Submission of first version of project reports
+* 23/10: Submission of peer feedback
+* 25/10: Submission of the final version of the report (incorporating the feedback from your peers)
+* 26/10 (during usual class time): Final presentations
 
 ### Assessment
 
