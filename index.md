@@ -177,6 +177,7 @@ The course grade will be calculated as:
 ### Deadlines
 
 All deadlines are 17:00 CET.
+
 * 3/10 (usual lecture timeslot): Mid-term progress presentations
 * 22/10: Submission of first version of project reports
 * 23/10: Submission of peer feedback
