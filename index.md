@@ -121,7 +121,6 @@ NLP, DL, and ML topics.
 ### Required reading for week 1:
 
 * [DeepBug paper](https://arxiv.org/abs/1805.11683), by Pradel and Sen.
-* [Discussion presentation template](discussion-template.html)
 * Form a group of 5 people with your classmates and choose a research paper for presentation. As a group, you will present a research paper together and do the course project.
 * Add your group in the Google sheet shared [here](https://docs.google.com/spreadsheets/d/1SWoQGnuFX948Zx5zNti3vdhSrgL242E9w6_FiEme4lg/edit?usp=sharing). 
   
