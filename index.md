@@ -120,7 +120,7 @@ NLP, DL, and ML topics.
 
 ### Required reading for week 1:
 
-* [DeepBug paper](https://arxiv.org/abs/1805.11683), by Pradel and Sen [@Pradel2018]
+* [DeepBug paper](https://arxiv.org/abs/1805.11683), by Pradel and Sen.
 * [Discussion presentation template](discussion-template.html)
 
   
@@ -137,7 +137,7 @@ NLP, DL, and ML topics.
 |  21/9  | 3 | 6  | [UniXcoder](https://arxiv.org/pdf/2203.03850): Unified Cross-Modal Pre-training for Code Representation | Maliheh |
 |  26/9  | 4 | 7  | [Codex](https://arxiv.org/abs/2107.03374): Evaluating Large Language Models Trained on Code | GG / MI |
 |  28/9  | 4 | 8  |  Code Filling: [InCoder](https://arxiv.org/pdf/2204.05999) and [CodeCompose](https://arxiv.org/abs/2305.12050)| Chandra Maddila (Meta) |
-|  3/10  | 5 | 9  | Project feedback session: mini-presentations (8-10min) | Ali |
+|  3/10  | 5 | 9  | Project feedback session: mini-presentations (8-10min) | Ali/Georgios |
 |  5/10  | 5 | 10  | [StarCoder](https://arxiv.org/abs/2305.06161): May the source be with you!  |  Georgios |
 |  10/10  | 6 | 11 | Guest lecture | Rui Maranhao Abreu (Meta) |
 |  12/10  | 6 | 12 | [Code Llama](https://arxiv.org/abs/2308.12950): Open Foundation Models for Code | Georgios |
@@ -163,13 +163,6 @@ NLP, DL, and ML topics.
 * Ali Al-kaswan  (PhD, TU Delft)
 * Jonathan Katzy (PhD, TU Delft)
 
-### Deadlines
-All deadlines are 17:00 CET.
-* 3/10 (usual lecture timeslot): Mid-term progress presentations
-* 22/10: Submission of first version of project reports
-* 23/10: Submission of peer feedback
-* 25/10: Submission of the final version of the report (incorporating the feedback from your peers)
-* 26/10 (usual lecture timeslot): Final presentations
 
 ### Assessment
 
@@ -180,3 +173,13 @@ The course grade will be calculated as:
 • One Research paper presentation during the course (Pass/Fail)
 • Mid-term project report (Pass/Fail)
 • Peer feedback on project reports (Pass/Fail)
+
+### Deadlines
+
+All deadlines are 17:00 CET.
+* 3/10 (usual lecture timeslot): Mid-term progress presentations
+* 22/10: Submission of first version of project reports
+* 23/10: Submission of peer feedback
+* 25/10: Submission of the final version of the report (incorporating the feedback from your peers)
+* 26/10 (usual lecture timeslot): Final presentations
+
