@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IN4334 - Machine Learning for Software Engineering (ML4SE)
+title: IN4334 - Analytics and Machine Learning for Software Engineering (2023/24 Q1)
 description: Course information
 ---
 
