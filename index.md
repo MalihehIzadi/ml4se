@@ -9,11 +9,11 @@ description: Course information
 Software repositories archive valuable software engineering data, such as source
 code, execution traces, historical code changes, mailing lists, and bug reports.
 This data contains a wealth of information about a project's status and history.
-Doing data science on software repositories, researchers can gain empirically
+By doing data science on software repositories, researchers can gain an empirically
 based understanding of software development practices, and practitioners can
 better manage, maintain, and evolve complex software projects.
 
-In the recent years, the advances in Machine Learning and AI technologies,
+In recent years, the advances in Machine Learning and AI technologies,
 as demonstrated by the successful application of Deep Neural Networks in various
 domains [did not go unnoticed](https://github.com/src-d/awesome-machine-learning-on-source-code)
 [in the field of Software Engineering](https://ml4code.github.io/papers.html).
@@ -38,7 +38,7 @@ This course will enable students to:
 
 ### Before you decide to join the course
 
-* We welcome all students that are willing to dive into cutting-edge ML research.
+* We welcome all students who are willing to dive into cutting-edge ML research.
 
 * _We expect students to have experience with ML already_. We also
   expect them to have some interest in program analysis. This is not an
@@ -62,7 +62,7 @@ This course will enable students to:
 
 * **Homework**: Before each lecture, you must read and prepare questions
 about the papers that will be discussed during the lecture. You can find
-the list of the papers to read on the beginning of each week's lecture.
+the list of the papers to read at the beginning of each week's lecture.
 You must also watch/read any material pointed to by the syllabus.
 
 Please keep in mind that you are attending this course on a voluntary basis.
@@ -71,11 +71,11 @@ so do your homework first!
 
 * **Lecturers**: The course is supervised by Maliheh Izadi and Georgios Gousios,
   who are responsible for the content and the assignments.
-  Several people will provide help in topics of their expertise.
+  Several people will provide help with topics of their expertise.
 
 * **Course deliverables**: To finish the course you will need to:
 
-    * Give a 30 min presentation of one papers
+    * Give a 30-minute presentation on one paper
     * Apply ML to a software engineering problem
     * Provide mid-term project progress
     * Document your project's results in the form of a research paper
@@ -108,7 +108,7 @@ we aim to tailor pre-trained language models
 to source code
 to solve software engineering tasks
 including code completion, type completion, and code summarization.
-Each group will fine-tune, perform few-short learning or prompt engineering 
+Each group will fine-tune, perform few-shot learning, or prompt engineering 
 to improve a pre-trained code model
 for the specific task at hand.
 Then, you will evaluate the model outputs on a test set.
