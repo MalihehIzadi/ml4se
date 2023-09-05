@@ -160,7 +160,7 @@ NLP, DL, and ML topics.
 
 **Assistants**
 
-* Ali Al-kaswan  (PhD, TU Delft)
+* [Ali Al-kaswan](https://aalkaswan.github.io/)  (PhD, TU Delft)
 * Jonathan Katzy (PhD, TU Delft)
 
 
