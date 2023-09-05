@@ -118,7 +118,7 @@ more specifically, [Pytorch](https://pytorch.org). Check our curated list of
 [tutorials](tutorials.html) that might help you in getting started with different
 NLP, DL, and ML topics.
 
-### Required reading for week 1:
+### Required action items for week 1:
 
 * [DeepBug paper](https://arxiv.org/abs/1805.11683), by Pradel and Sen.
 * Form a group of 5 people with your classmates and choose a research paper for presentation. As a group, you will present a research paper together and do the course project.
