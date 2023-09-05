@@ -38,13 +38,13 @@ This course will enable students to:
 
 ### Before you decide to join the course
 
-* We welcome all students that are willing to dive into cutting edge ML research.
+* We welcome all students that are willing to dive into cutting-edge ML research.
 
 * _We expect students to have experience with ML already_. We also
   expect them to have some interest in program analysis. This is not an
   introductory course.
 
-* Due to resource constraints, the course is offered for 40 students.
+* Due to resource constraints, the course is offered to 40 students.
   If we have more than 40 registrations, we may apply CV-based selection.
   Students with demonstrable experience (i.e., GitHub repos) in ML will be
   preferred.
@@ -58,14 +58,14 @@ This course will enable students to:
 * **Reading sessions**: The course consists of lectures and reading sessions.
   You are not required, but you are **strongly encouraged**, to attend. Per meeting, we will be
   discussing 1 paper (presentations given either by the lecturer or
-  by teams) in terms of techniques, insights and impact.
+  by teams) in terms of techniques, insights, and impact.
 
 * **Homework**: Before each lecture, you must read and prepare questions
 about the papers that will be discussed during the lecture. You can find
 the list of the papers to read on the beginning of each week's lecture.
 You must also watch/read any material pointed to by the syllabus.
 
-Please keep in mind that you are attending this course on voluntary basis.
+Please keep in mind that you are attending this course on a voluntary basis.
 Coming to the classroom unprepared will not be the best use of your time,
 so do your homework first!
 
@@ -78,7 +78,7 @@ so do your homework first!
     * Give a 30 min presentation of one papers
     * Apply ML to a software engineering problem
     * Provide mid-term project progress
-    * Document your project's results in a form of a reseach paper
+    * Document your project's results in the form of a research paper
     * Give a final presentation about your project
     * Provide peer feedback for two project reports from other groups
 
@@ -91,7 +91,7 @@ so do your homework first!
   during lab hours by the lecturers.
 
 ### The project
-Lately, machine learning techniques have been successfully
+Lately, machine-learning techniques have been successfully
 tailored to many software engineering problems.
 For instance, intelligent code completion helps developers
 finish their programming tasks faster and more efficiently
@@ -105,13 +105,13 @@ are among the most recent deep learning-based solutions
 for an enhanced software development experience.
 In this project,
 we aim to tailor pre-trained language models
-for source code
+to source code
 to solve software engineering tasks
 including code completion, type completion, and code summarization.
-Each gorup will fine-tune, perform few-short learning or prompt engineering 
+Each group will fine-tune, perform few-short learning or prompt engineering 
 to improve a pre-trained code model
 for the specific task at hand.
-Then, you will evaluate the models outputs on a test set.
+Then, you will evaluate the model outputs on a test set.
 
 You will implement different models. You are required to use Python and
 more specifically, [Pytorch](https://pytorch.org). Check our curated list of
@@ -122,7 +122,8 @@ NLP, DL, and ML topics.
 
 * [DeepBug paper](https://arxiv.org/abs/1805.11683), by Pradel and Sen.
 * [Discussion presentation template](discussion-template.html)
-
+* Form a group of 5 people with your classmates and choose a research paper for presentation. As a group, you will present a research paper together and do the course project.
+* Add your group in the Google sheet shared [here](https://docs.google.com/spreadsheets/d/1SWoQGnuFX948Zx5zNti3vdhSrgL242E9w6_FiEme4lg/edit?usp=sharing). 
   
 
 ### Contents
@@ -184,5 +185,5 @@ All deadlines are 17:00 CET.
 * 26/10: Submission of the first version of project reports
 * 28/10: Submission of peer feedback
 * 31/10: Submission of the final version of the report (incorporating the feedback from your peers)
-* 2/11 (usual lecture timeslot): Final presentations
+* 2/11: Final presentations
 
