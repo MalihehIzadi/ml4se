@@ -143,8 +143,10 @@ NLP, DL, and ML topics.
 |  12/10  | 6 | 12 | [Code Llama](https://arxiv.org/abs/2308.12950): Open Foundation Models for Code | Georgios |
 |  17/10 | 7 | 13 | [WizardCoder](https://arxiv.org/pdf/2306.08568.pdf): Empowering Code Large Language Models with Evol-Instruct | Maliheh |
 |  19/10 | 7 | 14 | [CodeT5+](https://arxiv.org/abs/2305.07922): Open Code Large Language Models for Code Understanding and Generation | Maliheh |
-|  24/10 | 8 | 15 | Project focus | All groups |
-|  26/10 | 8 | 16 | Presentation day | Maliheh/Georgios |
+|  24/10 | 8 | 15 | No lecture - Project focus | All groups |
+|  26/10 | 8 | 16 | Initial report deadline | All groups |
+|  31/10 | 9 | 17 | Final report deadline | All groups |
+|  2/11  | 9 | 18 | Presentation day | All groups |
 
 ---
 **Lecturers**
@@ -179,8 +181,8 @@ The course grade will be calculated as:
 All deadlines are 17:00 CET.
 
 * 3/10 (usual lecture timeslot): Mid-term progress presentations
-* 22/10: Submission of first version of project reports
-* 23/10: Submission of peer feedback
-* 25/10: Submission of the final version of the report (incorporating the feedback from your peers)
-* 26/10 (usual lecture timeslot): Final presentations
+* 26/10: Submission of the first version of project reports
+* 28/10: Submission of peer feedback
+* 31/10: Submission of the final version of the report (incorporating the feedback from your peers)
+* 2/11 (usual lecture timeslot): Final presentations
 
