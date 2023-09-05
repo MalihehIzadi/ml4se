@@ -170,11 +170,11 @@ NLP, DL, and ML topics.
 
 The course grade will be calculated as:
 
-• Project results in the form of a research paper (80%)
-• Final presentation/discussion of results (20%)
-• One Research paper presentation during the course (Pass/Fail)
-• Mid-term project report (Pass/Fail)
-• Peer feedback on project reports (Pass/Fail)
+* Project results in the form of a research paper (80%)
+* Final presentation/discussion of results (20%)
+* One Research paper presentation during the course (Pass/Fail)
+* Mid-term project report (Pass/Fail)
+* Peer feedback on project reports (Pass/Fail)
 
 ### Deadlines
 
