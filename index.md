@@ -141,7 +141,7 @@ NLP, DL, and ML topics.
 |  5/10  | 5 | 10  | [StarCoder](https://arxiv.org/abs/2305.06161): May the source be with you!  |  Georgios |
 |  10/10  | 6 | 11 | Guest lecture | Rui (Meta) |
 |  12/10  | 6 | 12 | [Code Llama](https://arxiv.org/abs/2308.12950): Open Foundation Models for Code | Georgios |
-|  17/10 | 7 | 13 | [WizardCoder](https://arxiv.org/pdf/2306.08568.pdf): Empowering Code Large Language Models with Evol-Instruct | Maliheh |
+|  17/10 | 7 | 13 | [WizardCoder](https://arxiv.org/pdf/2306.08568.pdf): Empowering Code LLMs with Evol-Instruct | Maliheh |
 |  19/10 | 7 | 14 | [CodeT5+](https://arxiv.org/abs/2305.07922): Open Code Large Language Models for Code Understanding and Generation | Maliheh |
 |  24/10 | 8 | 15 | No lecture - Project focus | All groups |
 |  26/10 | 8 | 16 | Initial report deadline | All groups |
