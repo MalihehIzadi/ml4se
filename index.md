@@ -142,7 +142,7 @@ more specifically, [Pytorch](https://pytorch.org).
 |  12/10  | 6 | 12 | [Code Llama](https://arxiv.org/abs/2308.12950): Open Foundation Models for Code | Georgios |
 |  17/10 | 7 | 13 | [WizardCoder](https://arxiv.org/pdf/2306.08568.pdf): Empowering Code LLMs with Evol-Instruct | Maliheh |
 |  19/10 | 7 | 14 | [CodeT5+](https://arxiv.org/abs/2305.07922): Open Code Large Language Models for Code Understanding and Generation | Maliheh |
-|  24/10 | 8 | 15 | No lecture - Project focus | All groups |
+|  24/10 | 8 | 15 | [SantaCoder](https://arxiv.org/abs/2301.03988): don't reach for the stars! | Maliheh |
 |  26/10 | 8 | 16 | Initial report deadline | All groups |
 |  31/10 | 9 | 17 | Final report deadline | All groups |
 |  2/11  | 9 | 18 | Presentation day | All groups |
