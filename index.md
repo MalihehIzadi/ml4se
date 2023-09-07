@@ -145,7 +145,7 @@ more specifically, [Pytorch](https://pytorch.org).
 |  24/10 | 8 | 15 | [SantaCoder](https://arxiv.org/abs/2301.03988): don't reach for the stars! | Maliheh |
 |  26/10 | 8 | 16 | Initial report deadline | All groups |
 |  31/10 | 9 | 17 | Final report deadline | All groups |
-|  2/11  | 9 | 18 | Presentation day | All groups |
+|  10/11 | 10 | 18 | Presentation day | All groups |
 
 ---
 **Lecturers**
