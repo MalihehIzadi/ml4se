@@ -108,7 +108,7 @@ we aim to tailor pre-trained language models
 to source code
 to solve software engineering tasks
 including code completion, type completion, and code summarization.
-Each group will fine-tune, perform few-shot learning, or prompt engineering 
+Each group will fine-tune, perform few-shot learning or prompt engineering 
 to improve a pre-trained code model
 for the specific task at hand.
 Then, you will evaluate the model outputs on a test set.
@@ -143,9 +143,8 @@ more specifically, [Pytorch](https://pytorch.org).
 |  17/10 | 7 | 13 | [WizardCoder](https://arxiv.org/pdf/2306.08568.pdf): Empowering Code LLMs with Evol-Instruct | Maliheh |
 |  19/10 | 7 | 14 | [CodeT5+](https://arxiv.org/abs/2305.07922): Open Code Large Language Models for Code Understanding and Generation | Maliheh |
 |  24/10 | 8 | 15 | [SantaCoder](https://arxiv.org/abs/2301.03988): don't reach for the stars! | Maliheh |
-|  26/10 | 8 | 16 | Initial report deadline | All groups |
-|  31/10 | 9 | 17 | Final report deadline | All groups |
-|  10/11 | 10 | 18 | Presentation day | All groups |
+|  26/10 | 8 | 16 | Project focus - no lecture | All groups |
+|  10/11  | 9 | 18 | Final presentations in EWI-Hall Chip at 8:45 AM | All groups |
 
 ---
 **Lecturers**
@@ -162,7 +161,7 @@ more specifically, [Pytorch](https://pytorch.org).
 **Assistants**
 
 * [Ali Al-kaswan](https://aalkaswan.github.io/)  (PhD, TU Delft)
-* Jonathan Katzy (PhD, TU Delft)
+* [Jonathan Katzy](https://nl.linkedin.com/in/jonathan-katzy-568263138) (PhD, TU Delft)
 
 
 ### Assessment
@@ -180,8 +179,8 @@ The course grade will be calculated as:
 All deadlines are 17:00 CET.
 
 * 3/10 (usual lecture timeslot): Mid-term progress presentations
-* 26/10: Submission of the first version of project reports
-* 28/10: Submission of peer feedback
-* 31/10: Submission of the final version of the report (incorporating the feedback from your peers)
-* 2/11: Final presentations
+* 27/10: Submission of the first version of project reports and code of own group
+* 31/10: Submission of peer feedback on report and code of other groups
+* 3/11: Submission of the revised version of the report and code of own group (incorporating the feedback from your peers)
+* 10/11 (8-45-10:45): Final project presentations
 
