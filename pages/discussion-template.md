@@ -4,7 +4,7 @@ title: Discussion template
 description: Sample template for presentation and discussion of research paper
 ---
 
-# Action items before your presentation
+### Action items before your presentation
 Read your selected paper carefully, and discuss it within your group to help each other get a good grasp of the problem, method, and results.
 Prepare a presentation to present the paper in the classroom.
 Compile a list of questions and discussion points before the presentation.
@@ -13,13 +13,14 @@ They will provide you with feedback if needed.
 
 Choose one of your teammates as the moderator, who will manage the discussion.
 Choose another teammate to take notes of the discussion.
+You will use these notes in your report of the discussion.
 
 
-# Presentation must-haves
+### Presentation must-haves
 For the presentation itself, make sure to at least include the following information about the paper. 
 The rest depends on your creativity and style.
 
-# Paper discussion: Title of paper
+#### Full title of the paper
 
 #### Paper
 
@@ -59,7 +60,7 @@ _to be filled in after the discussion by the discussion group_
 
 
 
-# Action items before your presentation
+### Action items after your presentation
 Each responsible group must document the above, 
 add a summary of highlights of the discussion in the classroom
 and return the report to the instructor for each discussed
