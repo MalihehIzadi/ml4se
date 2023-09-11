@@ -11,8 +11,8 @@ description: Sample template for presentation and discussion of research paper
 * Compile a list of questions and discussion points before the presentation.
 * Share the presentation, discussion points, and questions with your TAs and lecturers using your Mattermost group channel (each group has its own channel).
 They will provide you with feedback if needed.
-* Choose one of your teammates as the moderator, who will manage the discussion.
-* Choose another teammate to take notes of the discussion.
+* At your will, choose one of your teammates as the _moderator_ whose task is to manage the flow of discussion.
+* At your will, choose another teammate as a _transcriber_ who can take notes of the discussion.
 You will use these notes in your report of the discussion.
 
 
