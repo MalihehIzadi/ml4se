@@ -5,15 +5,18 @@ description: Sample template for presentation and discussion of research paper
 ---
 
 ### Action items before your presentation
-Read your selected paper carefully, and discuss it within your group to help each other get a good grasp of the problem, method, and results.
-Prepare a presentation to present the paper in the classroom.
-Compile a list of questions and discussion points before the presentation.
-Share the presentation, discussion points, and questions with your TAs and lecturers using your Mattermost group channel (each group has its own channel).
-They will provide you with feedback if needed.
 
-Choose one of your teammates as the moderator, who will manage the discussion.
-Choose another teammate to take notes of the discussion.
+* Read your selected paper carefully, and discuss it within your group to help each other get a good grasp of the problem, method, and results.
+* Prepare a presentation to present the paper in the classroom.
+* Compile a list of questions and discussion points before the presentation.
+* Share the presentation, discussion points, and questions with your TAs and lecturers using your Mattermost group channel (each group has its own channel).
+They will provide you with feedback if needed.
+* Choose one of your teammates as the moderator, who will manage the discussion.
+* Choose another teammate to take notes of the discussion.
 You will use these notes in your report of the discussion.
+
+
+**Be prepared to answer the audience's questions about the work you present!**
 
 
 ### Presentation must-haves
@@ -32,28 +35,31 @@ The rest depends on your creativity and style.
 _A brief profile of the main authors_
 
 #### Motivation
-_Why do this research?_
+_Why do this research? Why is it needed?_
 
-#### Research method
-_What is the problem that is solved?_
+#### The problem
+_What exactly is the problem that is solved?_
 
 #### Research method
 _What does the paper do?_
 
 #### ML4SE techniques used
-_How does the paper use ML techniques_
+_How does the paper use ML techniques to solve the above problem?_
+
+#### Evaluation
+_How do the authors evaluate their work?_
 
 #### Results
-_What does the paper find?_
+_What is the highlight of the paper's findings?_
 
 #### Implications
-_Why are the results important?_
+_Why are the results important? What is their impact?_
 
 #### Techincal questions
-_A list of questions to gauge the audience's understanding of the paper_
+_A list of questions to gauge the audience's understanding of the paper._
 
 #### Discussion points
-_A list of questions to trigger general discussions about the paper_
+_A list of questions to trigger general discussions about the paper._
 
 #### Summary of the discussion
 _to be filled in after the discussion by the discussion group_
