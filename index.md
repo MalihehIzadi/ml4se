@@ -136,7 +136,7 @@ Please refer to the sample [template](pages/discussion-template.html).
 |  14/9  | 2 | 4  | Representations, Transformers, Large Languge Models | Georgios |
 |  19/9  | 3 | 5  | [CodeXGLUE](https://arxiv.org/abs/2102.04664): A Machine Learning Benchmark Dataset for Code Understanding and Generation | Maliheh |
 |  21/9  | 3 | 6  | [UniXcoder](https://arxiv.org/pdf/2203.03850): Unified Cross-Modal Pre-training for Code Representation | Maliheh |
-|  26/9  | 4 | 7  | [Codex](https://arxiv.org/abs/2107.03374): Evaluating Large Language Models Trained on Code | GG / MI |
+|  26/9  | 4 | 7  | [Codex](https://arxiv.org/abs/2107.03374): Evaluating Large Language Models Trained on Code | Maliheh |
 |  28/9  | 4 | 8  |  Code Filling: [InCoder](https://arxiv.org/pdf/2204.05999) and [CodeCompose](https://arxiv.org/abs/2305.12050)| Chandra (Meta) |
 |  3/10  | 5 | 9  | Project feedback session: mini-presentations (8-10min) | Ali/Georgios |
 |  5/10  | 5 | 10  | [StarCoder](https://arxiv.org/abs/2305.06161): May the source be with you!  |  Georgios |
