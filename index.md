@@ -138,7 +138,7 @@ Please refer to the sample [template](pages/discussion-template.html).
 |  21/9  | 3 | 6  | [UniXcoder](https://arxiv.org/pdf/2203.03850): Unified Cross-Modal Pre-training for Code Representation | Maliheh |
 |  26/9  | 4 | 7  | [Codex](https://arxiv.org/abs/2107.03374): Evaluating Large Language Models Trained on Code | Maliheh |
 |  28/9  | 4 | 8  |  Code Filling: [InCoder](https://arxiv.org/pdf/2204.05999) and [CodeCompose](https://arxiv.org/abs/2305.12050)| Chandra (Meta) |
-|  3/10  | 5 | 9  | Project feedback session: mini-presentations (8-10min) | Ali/Georgios |
+|  3/10  | 5 | 9  | <span style="color: #750000;">Project feedback session: mini-presentations (8-10min)</span> | Ali/Georgios |
 |  5/10  | 5 | 10  | [StarCoder](https://arxiv.org/abs/2305.06161): May the source be with you!  |  Georgios |
 |  10/10  | 6 | 11 | Guest lecture | Rui (Meta) |
 |  12/10  | 6 | 12 | [Code Llama](https://arxiv.org/abs/2308.12950): Open Foundation Models for Code | Georgios |
