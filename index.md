@@ -122,7 +122,9 @@ more specifically, [Pytorch](https://pytorch.org).
 * Form a group of 5 people with your classmates and choose a research paper for presentation. As a group, you will present a research paper together and do the course project.
 * Add your group in the Google sheet shared [here](https://docs.google.com/spreadsheets/d/1SWoQGnuFX948Zx5zNti3vdhSrgL242E9w6_FiEme4lg/edit?usp=sharing). Share your GitHub ID as well.
 * The deadline for the last two items is Thursday (Sep 7th) at 8:00 AM. Afterward, we will assign the remaining students to the incomplete groups. 
-  
+
+### Paper presentation and discussion guidelines
+Please refer to the sample [template](pages/discussion-template.html).
 
 ### Contents
 
