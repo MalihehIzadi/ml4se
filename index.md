@@ -184,8 +184,8 @@ The course grade will be calculated as:
 All deadlines are 17:00 CET.
 
 * 3/10 (usual lecture timeslot): Mid-term progress presentations
-* 27/10: Submission of the first version of project reports and code of own group
-* 31/10: Submission of peer feedback on report and code of other groups
-* 3/11: Submission of the revised version of the report and code of own group (incorporating the feedback from your peers)
+* 2/11: Submission of the first version of project reports and code of own group
+* 4/11: Submission of peer feedback on report and code of other groups
+* 6/11: Submission of the revised version of the report and code of own group (incorporating the feedback from your peers)
 * 10/11 (8-45-10:45): Final project presentations
 
