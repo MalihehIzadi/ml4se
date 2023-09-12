@@ -110,11 +110,14 @@ to solve software engineering tasks
 including code completion, type completion, and code summarization.
 Each group will fine-tune, perform few-shot learning or prompt engineering 
 to improve a pre-trained code model
-for the specific task at hand.
-Then, you will evaluate the model outputs on a test set.
+for a software engineering problem of their choosing.
+Then, they will evaluate the model outputs on a test set.
 
 You will implement different models. You are required to use Python and
 more specifically, [Pytorch](https://pytorch.org). 
+
+<span style="color: #BA0F30;">**NOTE!**</span> You can access the project description from [here](https://docs.google.com/document/d/1h3Ffau3Q-l2KD8X51If-SIo-JOfx_gPpW0FGq3rJQyE/edit?usp=sharing).
+
 
 ### Required action items for week 1:
 
@@ -124,7 +127,7 @@ more specifically, [Pytorch](https://pytorch.org).
 * The deadline for the last two items is Thursday (Sep 7th) at 8:00 AM. Afterward, we will assign the remaining students to the incomplete groups. 
 
 ### Paper presentation and discussion guidelines
-Please refer to the sample [template](pages/discussion-template.html).
+<span style="color: #BA0F30;">**NOTE!**</span> Please refer to the sample [template](pages/discussion-template.html).
 
 ### Contents
 
