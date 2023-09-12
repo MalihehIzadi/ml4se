@@ -28,7 +28,7 @@ The rest depends on your creativity and style.
 #### Paper
 
 * Appeared in _(name of conference/journal)_
-* Cited _citation cound_
+* Cited _citation count_
 * Why is it important?
 
 #### People
@@ -55,7 +55,7 @@ _What is the highlight of the paper's findings?_
 #### Implications
 _Why are the results important? What is their impact?_
 
-#### Techincal questions
+#### Technical questions
 _A list of questions to gauge the audience's understanding of the paper._
 
 #### Discussion points
