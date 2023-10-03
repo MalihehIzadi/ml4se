@@ -142,11 +142,11 @@ more specifically, [Pytorch](https://pytorch.org).
 |  26/9  | 4 | 7  | [Codex](https://arxiv.org/abs/2107.03374): Evaluating Large Language Models Trained on Code | Maliheh |
 |  28/9  | 4 | 8  |  Code Filling: [InCoder](https://arxiv.org/pdf/2204.05999) and [CodeCompose](https://arxiv.org/abs/2305.12050)| Chandra (Meta) |
 |  3/10  | 5 | 9  | <span style="color: #BA0F30;">Project feedback session: mini-presentations (8-10min)</span> | Ali/Georgios |
-|  5/10  | 5 | 10  | [StarCoder](https://arxiv.org/abs/2305.06161): May the source be with you!  |  Georgios |
-|  10/10  | 6 | 11 | Guest lecture | Rui (Meta) |
-|  12/10  | 6 | 12 | [Code Llama](https://arxiv.org/abs/2308.12950): Open Foundation Models for Code | Georgios |
+|  5/10  | 5 | 10 | [StarCoder](https://arxiv.org/abs/2305.06161): May the source be with you! |  Georgios |
+|  10/10 | 6 | 11 | [CodeT5+](https://arxiv.org/abs/2305.07922): Open Code Large Language Models for Code Understanding and Generation | Maliheh |
+|  12/10 | 6 | 12 | [Code Llama](https://arxiv.org/abs/2308.12950): Open Foundation Models for Code | Georgios |
 |  17/10 | 7 | 13 | [WizardCoder](https://arxiv.org/pdf/2306.08568.pdf): Empowering Code LLMs with Evol-Instruct | Maliheh |
-|  19/10 | 7 | 14 | [CodeT5+](https://arxiv.org/abs/2305.07922): Open Code Large Language Models for Code Understanding and Generation | Maliheh |
+|  19/10 | 7 | 14 | Guest lecture | Rui (Meta) |
 |  24/10 | 8 | 15 | [SantaCoder](https://arxiv.org/abs/2301.03988): don't reach for the stars! | Maliheh |
 |  26/10 | 8 | 16 | Project focus - no lecture | All groups |
 |  10/11  | 9 | 18 | <span style="color: #BA0F30;">**Final presentations in EWI-Hall Chip at 8:45 AM**</span> | All groups |
