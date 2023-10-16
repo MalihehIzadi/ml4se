@@ -148,8 +148,8 @@ more specifically, [Pytorch](https://pytorch.org).
 |  17/10 | 7 | 13 | [WizardCoder](https://arxiv.org/pdf/2306.08568.pdf): Empowering Code LLMs with Evol-Instruct | Maliheh |
 |  19/10 | 7 | 14 | Moving Fast While Delivering High Quality Code | Rui (Meta) |
 |  24/10 | 8 | 15 | [SantaCoder](https://arxiv.org/abs/2301.03988): don't reach for the stars! | Maliheh |
-|  26/10 | 8 | 16 | Project focus - no lecture | All groups |
-|  10/11  | 9 | 18 | <span style="color: #BA0F30;">**Final presentations in EWI-Hall Chip at 8:45 AM**</span> | All groups |
+|  26/10 | 8 | 16 | Project focus - no lecture |  |
+|  10/11  | 9 | 18 | <span style="color: #BA0F30;">**Final presentations in EWI-Hall Chip at 8:45 AM (Exam day)**</span> | |
 
 ---
 **Lecturers**
