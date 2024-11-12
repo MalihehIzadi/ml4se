@@ -39,10 +39,10 @@ This course will enable students to:
 ### Before you decide to join the course
 
 _We expect students to have experience with ML already_. We also
-  expect them to have some interest in program analysis. This is not an
+  expect them to have some interest in program analysis. This is *NOT* an
   introductory course. Here are the requirements:
 
-  * Experience with programming is required (preferably Python)
+* Experience with programming is required (preferably Python)
 * Experience with machine learning and specifically deep learning techniques is a must-have.
 * Familiarity with transformer-based language models and modern NLP is needed
 
@@ -68,7 +68,7 @@ Coming to the classroom unprepared will not be the best use of your time,
 so do your homework first!
 
 * **Lecturers**: The course is supervised by Maliheh Izadi,
-  who is responsible for the content and the assignments.
+  who is responsible for the content and the project.
  
 
 * **Course deliverables**: To finish the course you will need to:
@@ -80,7 +80,7 @@ so do your homework first!
     * Give a final presentation about your project
     * Provide peer feedback for two projects from other groups
 
-* **Groups**: You will work in groups of 6-7 people (may need to adjust the number based on the total number of students). CS and DSAIT students are already assigned to 13 groups. if you are a new student from another program and do not have a group, you are free to choose your group partners during the first lecture, hence presence in the first lecture is **mandatory**, otherwise you cannot contribute to a team and will fail the class.
+* **Groups**: You will work in groups of 6-7 people (may need to adjust the number based on the total number of students). CS and DSAIT students are already assigned to 13 groups. If you are a new student from another program and do not have a group, you are free to choose your group partners during the first lecture, hence presence in the first lecture is **mandatory**, otherwise you cannot contribute to a team and will fail the class.
 
 * **Labs**: you are encouraged to spend a minimum of 4 hours per week working on your project with your teammates. No feedback will be provided
   during lab hours by the lecturers.
