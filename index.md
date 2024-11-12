@@ -75,9 +75,9 @@ so do your homework first!
 
     * Give a 30-minute presentation on one paper (we will adjust the time based on the final number of students)
     * Apply ML to a software engineering problem
-    * Provide mid-term project progress
+    * Provide mid-term project progress, plus weekly progress reports to TAs on the progress of the project
     * Document your project's results in the form of a research paper
-    * Give a final presentation about your project
+    * Give a final presentation about your project, plus individual Q&A
     * Provide peer feedback for two projects from other groups
 
 * **Groups**: You will work in groups of 6-7 people (may need to adjust the number based on the total number of students). CS and DSAIT students are already assigned to 13 groups. If you are a new student from another program and do not have a group, you are free to choose your group partners during the first lecture, hence presence in the first lecture is **mandatory**, otherwise you cannot contribute to a team and will fail the class.
