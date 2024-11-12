@@ -106,11 +106,7 @@ Each group will fine-tune, perform few-shot learning, or prompt engineering
 to improve a pre-trained code model
 for a software engineering problem of their choosing.
 Then, they will evaluate the model outputs on a test set.
-
-You will implement different models. You are required to use Python and
-more specifically, [Pytorch](https://pytorch.org). 
-
-More details will be shared during the course.
+You will use Python as the main language. More details about the project will be shared during the course.
 
 
 
