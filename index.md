@@ -153,7 +153,7 @@ You will use Python as the main language. More details about the project will be
 * Jonathan Katzy
 * Daniele Cipolone
 * Razvan Popescu
-* Nadine Kou
+* Nadine Kuo
 * Roham Koohestani
   
 
