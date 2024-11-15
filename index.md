@@ -73,7 +73,7 @@ so do your homework first!
 
 * **Course deliverables**: To finish the course you will need to:
 
-    * Give a 30-minute presentation on one paper (we will adjust the time based on the final number of students)
+    * Give a 30min presentation on one paper plus 15 min for QA.
     * Apply ML to a software engineering problem
     * Provide mid-term project progress, plus weekly progress reports to TAs on the progress of the project
     * Document your project's results in the form of a research paper
