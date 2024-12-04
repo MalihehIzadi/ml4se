@@ -168,5 +168,15 @@ The course grade will be calculated as:
 * Mid-term project report (Pass/Fail)
 * Peer feedback on project reports (Pass/Fail)
 
+### Deadlines
+
+All deadlines are 17:00 CET (EOD).
+
+* 13/12: Mid-term progress report shared with TAs. Then, arrange a short meeting with your TA on Dec 13th or 16th to discuss your progress and ask your questions.
+* 13/01: Submission of the first version of project reports and code of own group
+* 15/01: Submission of peer feedback on report and code of other groups
+* 17/01: Submission of the revised version of the report and code of own group (incorporating the feedback from your peers)
+* 22/01: Final project presentations during the exam slot
+
 
 
