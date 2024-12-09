@@ -174,7 +174,10 @@ The course grade will be calculated as:
 * 13/01 at 17:00 PM: Submission of the first version of project reports and code of own group to Brightspace and peer
 * 17/01 at 11:00 AM: Submission of peer feedback on report and code of other groups on peer
 * 20/01 at 17:00 PM: Submission of the revised version of the report and code of own group (incorporating the feedback from your peers)
-* 22/01: Final project presentations during the exam slot
+
+### Exam day
+* 22/01 at 11:30 AM: Submit final project presentations to BrightSpace
+* 22/01 at 13:45 PM: Final project presentations in Hall D@ta
 
 
 
