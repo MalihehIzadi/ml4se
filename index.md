@@ -172,7 +172,7 @@ The course grade will be calculated as:
 
 * 13/12 at 17:00 PM: Mid-term progress report shared with TAs. Then, arrange a short meeting with your TA on Dec 13th or 16th to discuss your progress and ask your questions.
 * 13/01 at 17:00 PM: Submission of the first version of project reports and code of own group to Brightspace and peer
-* 17/01 at 11:00 AM: Submission of peer feedback on report and code of other groups on peer
+* 17/01 at 11:30 AM: Submission of peer feedback on report and code of other groups on peer
 * 20/01 at 17:00 PM: Submission of the revised version of the report and code of own group (incorporating the feedback from your peers)
 
 ### Exam day
