@@ -135,6 +135,7 @@ You will use Python as the main language. More details about the project will be
 |  Dec 11th | 5 | 2  | [WizardCoder: Empowering Code LLMs with Evol-Instruct](https://arxiv.org/abs/2306.08568) | HuggingFace |
 |  Dec 18th  | 6 | 1  | [CodeGemma: Open Code Models Based on Gemma](https://arxiv.org/abs/2406.11409) | Google |
 |  Dec 18th  | 6 | 2 | [Magicoder: Empowering Code Generation with OSS-Instruct](https://arxiv.org/abs/2312.02120) |  UIUC |
+|  Dec 18th  | 6 | 3 | [CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models]([https://arxiv.org/abs/2312.02120](https://dl.acm.org/doi/abs/10.1145/3597503.3623316?casa_token=k8_viFbhpg4AAAAA:a3WcAqsFyeQk83c5uNUaS86oxR4NX0SbymxBMcaHuXT-DGoHb9chcefi8QnrnS_XPy7UkD29ty6f)) |  Peking University |
 |  Jan 8th | 7 | 1 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)  | Princeton |
 |  Jan 8th | 7 | 2 | [DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196) | DeepSeek |
 |  Jan 15th | 8 | 1 | [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974) | UC Berkeley, MIT, Cornell |
