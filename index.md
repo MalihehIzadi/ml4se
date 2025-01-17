@@ -140,7 +140,7 @@ You will use Python as the main language. More details about the project will be
 |  Jan 8th | 7 | 2 | [DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196) | DeepSeek |
 |  Jan 15th | 8 | 1 | [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974) | UC Berkeley, MIT, Cornell |
 |  Jan 15th | 8 | 2 | [Stable Code Technical Report](https://arxiv.org/pdf/2404.01226) | StabilityAI |
-|  Jan 22nd  | 9 | 18 | <span style="color: #BA0F30;">**Final presentations EEMCS-Lecture Hall D@ta (36.HB.01.630) - Exam day - book your calendars**</span> | |
+|  Jan 22nd  | 9 | 18 | <span style="color: #BA0F30;">**Final presentations EEMCS-Lecture Hall D@ta and Pi (36.HB.01.630) - Exam day - book your calendars**</span> | |
 
 ---
 **Lecturer**
@@ -178,7 +178,7 @@ The course grade will be calculated as:
 
 ### Exam day
 * 22/01 at 11:30 AM: Submit final project presentations to BrightSpace
-* 22/01 at 13:45 PM: Final project presentations in Hall D@ta
+* 22/01 at 13:45 PM: Final project presentations in Hall D@ta and Pi
 
 
 
